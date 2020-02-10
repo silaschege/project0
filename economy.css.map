@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGE,MAAK;EACJ,UAAU,EAAC,MAAM;EACjB,KAAK,EALD,GAAG;;AAQR,yBAAuB;EACtB,IAAI;IACH,gBAAgB,EATZ,UAAU;AAchB,yBAAuB;EACtB,IAAI;IACH,gBAAgB,EAfZ,SAAS;AAmBf,IAAI;EACH,YAAY,EAAC,IAAI;EACjB,WAAW,EAAC,IAAI;;AAGhB,MAAK;EAEL,OAAO,EAAC,IAAI",
+"sources": ["economy.scss"],
+"names": [],
+"file": "economy.css"
+}
