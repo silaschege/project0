@@ -1,0 +1,33 @@
+$color:red;
+$color1:lightgreen;
+$color2:lightpink;
+		h1,h2{
+			text-align:center;
+			color:$color;
+		}
+
+		@media(max-width:499px){
+			body{
+				background-color:$color1;
+			}
+		}
+
+
+		@media(min-width:500px){
+			body{
+				background-color:$color2;
+			}
+		}
+
+		body{
+			margin-right:60px;
+			margin-left:60px
+		}
+
+		 th,td{
+
+			padding:10px;
+		}
+
+
+		
